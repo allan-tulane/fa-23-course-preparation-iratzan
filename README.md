@@ -23,7 +23,7 @@
 
 ## Turning in your work
 
-- Once complete, click on the "Version Control" icon in the left pane on repl.it.
+- Once complete, click on the "Version Control" icon in the left pane on repl.it. I
 - Enter a commit message in the "what did you change?" text box
 - Click "commit and push." This will push your code to your github repository.
 - Although you are working as a team, please have each team member submit the same code to their repository. One person can copy the code to their repl.it and submit it from there.
